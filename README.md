@@ -5,6 +5,8 @@ ELK configuration to parse OpenLDAP logs
 
 ELK (ElasticSearch/Logstash/Kibana) is a suite of tools that allow to parse, store and display data from logs. This project provides some sample configurations of these tools in order to get statistics from OpenLDAP logs.
 
+![Screenshot](doc/openldap-elk-ldap-operations.png)
+
 ## Usage
 
 ### Logstash
